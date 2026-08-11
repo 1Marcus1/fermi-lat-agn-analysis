@@ -82,13 +82,7 @@ download the current Galactic diffuse emission model
 spectral template matching your event class/type
 (`iso_P8R3_SOURCE_V3_v1.txt` for `SOURCE` class, Pass 8).
 
-**3. Download the source catalog.**
-From the FSSC
-[LAT catalogs page](https://fermi.gsc.nasa.gov/ssc/data/access/lat/), download
-the current 4FGL catalog FITS file (`gll_psc_v*.fit`), used by fermipy to
-seed the ROI with known nearby sources.
-
-**4. Place everything in the same folder.**
+**3. Place everything in the same folder.**
 Put `config.yaml`, the photon/spacecraft files, the diffuse models, and the
 catalog file together in the directory you'll run the scripts from (or point
 to them with absolute paths in `config.yaml`), then reference them in
