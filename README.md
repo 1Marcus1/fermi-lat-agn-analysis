@@ -76,7 +76,7 @@ already present — see the
 
 **2. Download the diffuse background models.**
 From the FSSC
-[background models page](https://fermi.gsc.nasa.gov/ssc/data/access/lat/BackgroundModels.html),
+[background models page](https://fermi.gsfc.nasa.gov/ssc/data/access/lat/BackgroundModels.html),
 download the current Galactic diffuse emission model
 (`gll_iem_v07.fits` or the current recommended version) and the isotropic
 spectral template matching your event class/type
