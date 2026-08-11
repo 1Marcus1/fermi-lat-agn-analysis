@@ -64,7 +64,7 @@ here's how to get it for a given source and time window.
 
 **1. Query the Fermi-LAT photon and spacecraft data.**
 Go to the FSSC
-[LAT Data Query page](https://fermi.gsc.nasa.gov/cgi-bin/ssc/LAT/LATDataQuery.cgi)
+[LAT Data Query page](https://fermi.gsfc.nasa.gov/cgi-bin/ssc/LAT/LATDataQuery.cgi)
 and submit a query centered on your target's RA/Dec, with the energy range,
 time range (in MET seconds — this is what `config.yaml`'s `selection.tmin`/
 `tmax` should match), and search radius you want to analyze. The query
