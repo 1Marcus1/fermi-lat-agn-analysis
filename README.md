@@ -129,7 +129,7 @@ text files) into the working directory and per-bin subdirectories.
 ## References
 
 - [Fermipy documentation](https://fermipy.readthedocs.io/)
-- [Fermi Science Support Center (FSSC)](https://fermi.gsc.nasa.gov/ssc/)
+- [Fermi Science Support Center (FSSC)](https://fermi.gsfc.nasa.gov/ssc/)
 - Abdollahi, S., et al. (2022). *Incremental Fermi Large Area Telescope
   Fourth Source Catalog.* ApJS, 260, 53 (4FGL-DR3).
   [arXiv:2201.11184](https://arxiv.org/abs/2201.11184)
